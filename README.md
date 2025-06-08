@@ -33,10 +33,4 @@ python app.py
 - TTFT
 - TTFB
 - Total Latency
-- User Input / Response
-
-## 📌 Note
-Replace the test audio URL in `app.py` with an actual WAV/MP3 file URL.
-
-## 🕒 Submission
-Deadline: 8 PM, 10th June
+- User Input / Respons
